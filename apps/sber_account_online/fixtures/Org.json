@@ -1,0 +1,12 @@
+
+[
+  {
+    "model": "sber_account_online.organization",
+    "pk":1,
+    "fields": {
+      "INN": "1",
+      "OGRN": "1"
+
+    }
+  }
+]

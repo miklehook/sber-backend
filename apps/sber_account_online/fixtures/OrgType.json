@@ -1,0 +1,36 @@
+
+[
+  {
+    "model": "sber_account_online.orgtype",
+    "pk":1,
+    "fields": {
+      "short_name": "ИП",
+      "full_name": "Индивидуальный предприниматель "
+
+    }
+  },
+  {
+    "model": "sber_account_online.orgtype",
+    "pk": 2,
+    "fields": {
+      "short_name": "ООО",
+      "full_name": "Общество с ограниченной ответственностью"
+    }
+  },
+  {
+    "model": "sber_account_online.orgtype",
+    "pk":3,
+    "fields": {
+      "short_name": "ОАО",
+      "full_name": "Открытое акционерное общество"
+    }
+  },
+  {
+    "model": "sber_account_online.orgtype",
+    "pk":4,
+    "fields": {
+      "short_name": "ЗАО",
+      "full_name": "Закрытое акционерное общество"
+    }
+  }
+]

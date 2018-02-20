@@ -1,0 +1,10 @@
+
+[
+  {
+    "model": "sber_account_online.client",
+    "pk":1,
+    "fields": {
+      "FIO": "III"
+    }
+  }
+]
